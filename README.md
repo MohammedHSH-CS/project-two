@@ -5,7 +5,8 @@ ex : How download project-tow
 ```
 cd Desktop
 mkdir project-tow
-git clone
+cd project-tow
+git clone https://github.com/MohammedHSH-CS/project-two
 
 
 ```
